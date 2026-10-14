@@ -40,3 +40,5 @@ header{background:#241e1a}.hero{position:relative;isolation:isolate;background:#
 
 /* Full table setting with no fixed-height crop. */
 .story{grid-template-columns:minmax(240px,36%) minmax(0,1fr)}.story .restaurant-photo img{display:block;width:100%;height:auto;object-fit:contain;object-position:center}.hero-food .rotation-toggle{margin-top:12px}@media(max-width:600px){.story .restaurant-photo img{height:auto}}
+
+.story>.restaurant-photo{grid-row:1}.story .story-grid{grid-row:1}
