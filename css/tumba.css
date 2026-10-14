@@ -22,3 +22,12 @@ header{background:#241e1a}.hero{position:relative;isolation:isolate;background:#
 .story{display:grid;grid-template-columns:240px 1fr;gap:20px 45px;align-items:center}.story>.eyebrow{grid-column:2}.story>.restaurant-photo{grid-column:1;grid-row:1 / span 2;float:none;width:100%;margin:0}.story .restaurant-photo img{height:360px;object-fit:cover}.story .story-grid{grid-column:2;display:block;margin:0}.story:after{display:none}@media(max-width:600px){.story{display:block}.story>.restaurant-photo{margin:25px 0}.story .restaurant-photo img{height:340px}}
 
 .menu-group{margin:35px 0}.menu-group-title{font-family:'Playfair Display',Georgia,serif;font-size:30px;color:var(--copper);padding-bottom:12px;border-bottom:1px solid var(--line)}.dish-title{display:block}.dish-title h3{margin:0 0 8px}.dish-title span{display:block;white-space:normal;font-size:13px;line-height:1.6;margin-bottom:12px}.menu-card{min-height:260px}.menu-thumbnail{display:block}
+/* Compact menu cards with titles centred beside the food image. */
+.menu-card{display:grid;grid-template-columns:76px minmax(0,1fr);grid-template-rows:auto auto;column-gap:22px;row-gap:12px;align-content:start;align-items:center;padding:18px;min-height:0}
+.menu-card .menu-thumbnail{grid-column:1;grid-row:1;width:76px;height:76px;margin:0}
+.menu-card .dish-title{grid-column:2;grid-row:1;align-self:center;min-width:0}
+.menu-card .dish-title h3{margin:0 0 5px;font-size:17px}
+.menu-card .dish-title span{margin:0;font-size:12px;line-height:1.5}
+.menu-card>p{grid-column:1 / -1;grid-row:2;margin:0;line-height:1.6}
+@media(max-width:1100px) and (min-width:901px){.menu-grid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:600px){.menu-card{padding:16px;column-gap:20px;row-gap:10px}}
