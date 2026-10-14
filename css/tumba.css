@@ -35,3 +35,5 @@ header{background:#241e1a}.hero{position:relative;isolation:isolate;background:#
 .menu-card{grid-template-columns:100px minmax(0,1fr);column-gap:20px}
 .menu-card .menu-thumbnail{width:100px;height:100px;object-fit:contain;padding:16px;background:#241e1a;border-radius:50%;border:1px solid #876348}
 @media(max-width:600px){.menu-card{grid-template-columns:96px minmax(0,1fr);column-gap:18px}.menu-card .menu-thumbnail{width:96px;height:96px;padding:15px}}
+/* Show real tabletop right to the edge of each photographic circle. */
+.menu-card .menu-thumbnail{object-fit:cover;padding:0;background:none}
