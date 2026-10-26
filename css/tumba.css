@@ -5,7 +5,7 @@
 :root{--ink:#f6eddf;--cream:#241e1a;--copper:#e0a078;--muted:#c7b9aa;--line:#514137}
 body{background:var(--cream);color:var(--ink)}
 header{background:#241e1a}.hero{position:relative;isolation:isolate;background:#2a211b}
-.hero::before{content:"";position:absolute;inset:0;z-index:-2;background:url('../img/venue-hero-background.webp') center 65%/cover no-repeat;opacity:.16;filter:sepia(.35) blur(1px);pointer-events:none}
+.hero::before{content:"";position:absolute;inset:0;z-index:-2;background:url('../img/venue-booths-tidy.webp') center 58%/cover no-repeat;opacity:.16;filter:sepia(.35) blur(1px);pointer-events:none}
 .hero::after{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(90deg,rgba(36,30,26,.72),rgba(36,30,26,.24) 65%,rgba(36,30,26,.38)),linear-gradient(0deg,#241e1a 0%,transparent 35%);pointer-events:none}
 .button{background:#ac512e;border-color:#ac512e}.button:hover{background:#c3653e}.button.outline{border-color:#87674f;background:transparent}
 .food-halo{border-color:#a775493d;background:radial-gradient(circle,#ab65332b,transparent 70%)}
