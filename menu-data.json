@@ -118,10 +118,10 @@
         "image": "TumbaGrill_LibokeNgolo"
       },
       {
-        "name": "Salted Fish",
+        "name": "Makayabu",
         "price": "£15.99",
-        "description": "A salted fish dish from the Congolese kitchen.",
-        "image": "s1-1"
+        "description": "Salted fish, available spiced or non-spiced.",
+        "image": "TumbaGrill_Makayabu"
       }
     ]
   },
@@ -176,12 +176,6 @@
         "price": "£15.99",
         "description": "A tasty mix of assorted meats.",
         "image": "s1-8"
-      },
-      {
-        "name": "Makayabu",
-        "price": "£15.99",
-        "description": "Salted fish, available spiced or non-spiced.",
-        "image": "TumbaGrill_Makayabu"
       },
       {
         "name": "Boullon Savage",
