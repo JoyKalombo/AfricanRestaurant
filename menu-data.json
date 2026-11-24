@@ -7,13 +7,13 @@
         "name": "Grilled Prawns",
         "price": "£7.50",
         "description": "Prawns cooked on the grill.",
-        "image": "s0-0"
+        "image": "TumbaGrill_Prawn"
       },
       {
         "name": "Samosa",
         "price": "£4.99",
         "description": "Crisp savoury pastry; ask about today’s filling.",
-        "image": "s0-1"
+        "image": "TumbaGrill_Samosa"
       },
       {
         "name": "Spring Rolls",
@@ -67,31 +67,31 @@
         "name": "Brochettes",
         "price": "£15.99",
         "description": "Traditional grilled meat skewers.",
-        "image": "s0-9"
+        "image": "TumbaGrill_Skewers"
       },
       {
         "name": "Extra Saucy Wings",
         "price": "3 pcs £5.75 · 5 pcs £8.00 · 10 pcs £13.25",
         "description": "Chicken wings with plenty of sauce.",
-        "image": "s0-10"
+        "image": "TumbaGrill_Wings"
       },
       {
         "name": "Pork Ribs",
         "price": "Small £17.99 · Large £22.99",
         "description": "Slow-cooked ribs with a smoky BBQ glaze.",
-        "image": "s0-11"
+        "image": "TumbaGrill_PorkRibs"
       },
       {
         "name": "Ntaba Suya",
         "price": "Small £17.99 · Large £29.99",
         "description": "Grilled goat or lamb with a spicy peanut rub, as described on the menu.",
-        "image": "s0-12"
+        "image": "TumbaGrill_Ntaba"
       },
       {
         "name": "Pork Belly",
         "price": "Small £19.99 · Large £27.99",
         "description": "Grilled pork belly slices, crisp outside and tender within.",
-        "image": "s0-13"
+        "image": "TumbaGrill_PorkBelly"
       }
     ]
   },
@@ -103,19 +103,19 @@
         "name": "Tilapia, Croaker, Thomson",
         "price": "Small £17.99 · Large £25.00",
         "description": "Grilled fish selection; confirm your preferred fish with the team.",
-        "image": "s0-14"
+        "image": "TumbaGrill_Tilapia"
       },
       {
         "name": "Grill Ngolo",
         "price": "Small £17.99 · Large £25.00",
         "description": "Ngolo fish cooked on the grill.",
-        "image": "s0-15"
+        "image": "TumbaGrill_GrillNgolo"
       },
       {
         "name": "Liboke Ngolo",
         "price": "Small £17.99 · Large £25.00",
         "description": "Catfish steamed in banana leaves.",
-        "image": "s1-0"
+        "image": "TumbaGrill_LibokeNgolo"
       },
       {
         "name": "Salted Fish",
@@ -133,13 +133,13 @@
         "name": "Meat Platter",
         "price": "1 person £34.99 · 2 people £50.99",
         "description": "A meat platter for one or two people; ask which meats are included.",
-        "image": "s1-2"
+        "image": "TumbaGrill_MeatPlatter"
       },
       {
         "name": "Fish Platter",
         "price": "1 person £34.99 · 2 people £50.99",
         "description": "A fish platter for one or two people; ask about the selection.",
-        "image": "s1-3"
+        "image": "TumbaGrill_FishPlatter"
       }
     ]
   },
@@ -151,25 +151,25 @@
         "name": "Pondu",
         "price": "£13.99",
         "description": "A traditional Congolese cassava-leaf dish.",
-        "image": "s1-4"
+        "image": "TumbaGrill_Pondu"
       },
       {
         "name": "Fumbwa",
         "price": "£13.99",
         "description": "A traditional Congolese leafy-green dish.",
-        "image": "s1-5"
+        "image": "TumbaGrill_Fumbwa"
       },
       {
         "name": "Authentic White Kidney Beans",
         "price": "£12.99",
         "description": "Rich, slow-cooked beans with traditional spices.",
-        "image": "s1-6"
+        "image": "TumbaGrill_Madesu"
       },
       {
         "name": "Green Vegetables",
         "price": "£9.99",
         "description": "Fresh traditional greens.",
-        "image": "s1-7"
+        "image": "TumbaGrill_GreenVegetables"
       },
       {
         "name": "Assorted Meat",
@@ -181,7 +181,7 @@
         "name": "Makayabu",
         "price": "£15.99",
         "description": "Salted fish, available spiced or non-spiced.",
-        "image": "s1-9"
+        "image": "TumbaGrill_Makayabu"
       },
       {
         "name": "Boullon Savage",
@@ -199,31 +199,31 @@
         "name": "Fried Plantains",
         "price": "£3.99",
         "description": "Golden fried plantain pieces.",
-        "image": "s1-11"
+        "image": "TumbaGrill_Plantain"
       },
       {
         "name": "Attieke",
         "price": "£3.99",
         "description": "A light, grain-like cassava accompaniment.",
-        "image": "s1-12"
+        "image": "TumbaGrill_Attieke"
       },
       {
         "name": "Jollof Rice",
         "price": "£5.99",
         "description": "Rice cooked in a seasoned tomato base.",
-        "image": "s1-13"
+        "image": "TumbaGrill_Jollof"
       },
       {
         "name": "Kwangas",
         "price": "£2.99",
         "description": "A traditional cassava accompaniment.",
-        "image": "s1-14"
+        "image": "TumbaGrill_Kwangas"
       },
       {
         "name": "Yam",
         "price": "£3.99",
         "description": "A hearty yam side.",
-        "image": "s1-15"
+        "image": "TumbaGrill_Yam"
       },
       {
         "name": "Couscous",
@@ -235,13 +235,13 @@
         "name": "Foufou",
         "price": "£4.00",
         "description": "A soft dough-style accompaniment for soups and stews.",
-        "image": "s2-1"
+        "image": "TumbaGrill_FouFou"
       },
       {
         "name": "Chilli Sauce",
         "price": "£2.50",
         "description": "A hot chilli accompaniment.",
-        "image": "s2-2"
+        "image": "TumbaGrill_ChiliSauce"
       },
       {
         "name": "Mayo",
@@ -283,7 +283,7 @@
         "name": "Mikate au Miel",
         "price": "£5.00",
         "description": "Fluffy fried dough balls drizzled with honey.",
-        "image": "s2-7"
+        "image": "TumbaGrill_PufPuf"
       },
       {
         "name": "Banana Mikate",
@@ -493,7 +493,7 @@
         "name": "Bissape",
         "price": "£3.00",
         "description": "A ruby-red hibiscus drink.",
-        "image": "bissap"
+        "image": "TumbaGrill_Bissape"
       },
       {
         "name": "J2O",
@@ -511,7 +511,7 @@
         "name": "Ginger Juice",
         "price": "£3.00",
         "description": "A refreshing ginger drink.",
-        "image": "s2-10"
+        "image": "TumbaGrill_GingerJuice"
       },
       {
         "name": "Fuzzy Drink",
