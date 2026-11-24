@@ -591,3 +591,45 @@ body:has(.photo-dialog[open]) [data-rotation-enabled] :is(.food-orbit, .orbit-ph
     padding-inline: 12px;
   }
 }
+
+/* Food section shortcuts follow the order of the printed menu. */
+.food-section-links {
+  margin: 0 0 35px;
+  padding: 0 0 20px;
+  border-bottom: 1px solid var(--line);
+}
+
+.food-section-links-title {
+  margin: 0 0 9px;
+  color: var(--ink);
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.food-section-links ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.food-section-links a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 40px;
+  padding: 6px 13px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+.food-section-links a:hover {
+  color: var(--copper);
+  border-color: var(--copper);
+}
+
+.menu-group-title[id] {
+  scroll-margin-top: 18px;
+}
